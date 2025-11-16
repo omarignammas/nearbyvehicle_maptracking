@@ -1,0 +1,6 @@
+[submodule "nearbyCarbackend"]
+	path = nearbyCarbackend
+	url = https://github.com/omarignammas/nearbyCarbackend.git
+[submodule "driver-appui"]
+	path = driver-appui
+	url = https://github.com/omarignammas/driver-appui
